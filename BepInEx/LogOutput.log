@@ -1,0 +1,421 @@
+[Message:   BepInEx] BepInEx 5.4.21.0 - Lethal Company (11-12-2023 11:22:40)
+[Info   :   BepInEx] Running under Unity v2022.3.9.15351836
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.21.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 5 plugins to load
+[Warning:   BepInEx] Plugin [Custom Boombox Music 1.4.0] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
+[Warning:   BepInEx] Plugin [MoreEmotes-Sligili 1.2.2] targets a wrong version of BepInEx (5.4.22.0) and might not work until you update
+[Info   :   BepInEx] Loading [Custom Boombox Music 1.4.0]
+[Info   :Custom Boombox Music] Loading...
+[Info   :Custom Boombox Music] Created directory at C:\Users\Usuario\Desktop\Lethal Company\BepInEx\Custom Songs\Boombox Music
+[Info   :Custom Boombox Music] Initializing config...
+[Info   :Custom Boombox Music] Config initialized!
+[Info   :Custom Boombox Music] Loading Complete!
+[Info   :   BepInEx] Loading [MoreCompany 1.7.2]
+[Info   :MoreCompany] Loading MoreCompany...
+[Info   :MoreCompany] Checking: C:\Users\Usuario\Desktop\Lethal Company\BepInEx\plugins/MoreCompanyCosmetics
+[Info   :MoreCompany] Read settings and cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.3dglasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.bunnyears from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.denimhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.fancyglasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.partyglasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.gunholster from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.hardhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.jesterhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.kittyears from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.mimemask from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.fancypants from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.outoforder from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.partyhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.plaguemask from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.propellerhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.eyeballs from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.rudolph from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.santahat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.slimething from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.tophat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.watch from bundle
+[Info   :MoreCompany] Loading USER COSMETICS...
+[Info   :MoreCompany] Loaded MoreCompany FULLY
+[Info   :   BepInEx] Loading [MoreEmotes-Sligili 1.2.2]
+[Info   :MoreEmotes-Sligili] MoreEmotes loaded
+[Info   :   BepInEx] Loading [Helmet_Cameras 2.1.5]
+[Info   :Helmet_Cameras] Plugin Helmet_Cameras is loaded with version 2.1.5!
+[Info   :Helmet_Cameras] --------Helmet camera patch done.---------
+[Info   :   BepInEx] Loading [More Suits 1.4.1]
+[Info   :More Suits] Plugin More Suits is loaded!
+[Message:   BepInEx] Chainloader startup complete
+[Warning: Unity Log] dxgi: swapchain SetFullscreenState failed (887a0022).
+[Info   : Unity Log] Changing gamma
+[Info   : Unity Log] override float value: 1
+[Info   : Unity Log] Overriding float
+[Info   : Unity Log] Gamma changed
+[Info   : Unity Log] Set gamma to new value: 1; (0.00, 0.00, 0.00, 1.00) (True)
+[Warning: Unity Log] Failed to change display to ExclusiveFullscreen...reverting to FullscreenWindow
+[Info   : Unity Log] Saving changed settings
+[Info   : Unity Log] Changing gamma
+[Info   : Unity Log] override float value: 1
+[Info   : Unity Log] Overriding float
+[Info   : Unity Log] Gamma changed
+[Info   : Unity Log] Set gamma to new value: 1; (0.00, 0.00, 0.00, 1.00) (True)
+[Info   : Unity Log] subcribing to steam callbacks
+[Info   : Unity Log] Changing gamma
+[Info   : Unity Log] override float value: 1
+[Info   : Unity Log] Overriding float
+[Info   : Unity Log] Gamma changed
+[Info   : Unity Log] Set gamma to new value: 1; (0.00, 0.00, 0.00, 1.00) (True)
+[Error  : Unity Log] NullReferenceException: Object reference not set to an instance of an object
+Stack trace:
+MoreEmotes.Patch.EmotePatch.MenuStart (MenuManager __instance) (at <f5da28d14d8446a1a30ddc07194617c6>:0)
+(wrapper dynamic-method) MenuManager.DMD<MenuManager::Start>(MenuManager)
+
+[Info   : Unity Log] [FacepunchTransport] - Initialized access to Steam Relay Network.
+[Info   : Unity Log] [FacepunchTransport] - Fetched user Steam ID.
+[Info   : Unity Log] Set version num
+[Info   : Unity Log] Changing gamma
+[Info   : Unity Log] override float value: 1
+[Info   : Unity Log] Overriding float
+[Info   : Unity Log] Gamma changed
+[Info   : Unity Log] Set gamma to new value: 1; (0.00, 0.00, 0.00, 1.00) (True)
+[Info   : Unity Log] host button pressed
+[Info   : Unity Log] Displaying menu message
+[Info   : Unity Log] [Netcode] StartHost
+[Info   : Unity Log] [Netcode] Initialize
+[Info   : Unity Log] [FacepunchTransport] - Starting as server.
+[Info   : Unity Log] Connection approval callback! Game version of client request: 
+[Info   : Unity Log] Joining client id: 0; Local/host client id: 0
+[Info   : Unity Log] Stopped connection approval callback, as the client in question was the host!
+[Warning: Unity Log] [Netcode] You cannot decline the host connection. The connection was automatically approved.
+[Info   : Unity Log] started host!
+[Info   : Unity Log] are we in a server?: True
+[Info   : Unity Log] Lobby has been created
+[Warning: Unity Log] [Dissonance:Recording] (01:30:44.784) CapturePipelineManager: Detected a frame skip, forcing capture pipeline reset (Delta Time:0,2853216)
+[Warning:Custom Boombox Music] No songs found!
+[Info   : Unity Log] Enabling connection callbacks in StartOfRound
+[Info   : Unity Log] Began listening to SceneManager_OnLoadComplete1 on this client
+[Info   : Unity Log] Changing gamma
+[Info   : Unity Log] override float value: 1
+[Info   : Unity Log] Overriding float
+[Info   : Unity Log] Gamma changed
+[Info   : Unity Log] Set gamma to new value: 1; (0.00, 0.00, 0.00, 1.00) (True)
+[Warning: Unity Log] damageTrigger is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The InteractTrigger component was skipped during spawn!
+[Warning: Unity Log] The referenced script (SelectionWheel) on this Behaviour is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object 'MoreEmotesMenu') is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Warning: Unity Log] The referenced script (SelectionWheel) on this Behaviour is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object 'MoreEmotesMenu') is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Warning: Unity Log] The referenced script (SelectionWheel) on this Behaviour is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object 'MoreEmotesMenu') is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Warning: Unity Log] The referenced script (SelectionWheel) on this Behaviour is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object 'MoreEmotesMenu') is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Warning: Unity Log] The referenced script (SelectionWheel) on this Behaviour is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object 'MoreEmotesMenu') is missing!
+[Info   : Unity Log] Item sales percentages #0: 0
+[Info   : Unity Log] Item sales percentages #1: 0
+[Info   : Unity Log] Item sales percentages #2: 0
+[Info   : Unity Log] Item sales percentages #3: 0
+[Info   : Unity Log] Item sales percentages #4: 0
+[Info   : Unity Log] Item sales percentages #5: 0
+[Info   : Unity Log] Item sales percentages #6: 0
+[Info   : Unity Log] Item sales percentages #7: 0
+[Info   : Unity Log] Item sales percentages #8: 0
+[Info   : Unity Log] Item sales percentages #9: 0
+[Info   : Unity Log] Item sales percentages #10: 0
+[Info   : Unity Log] Item sales percentages #11: 0
+[Info   : Unity Log] Item sales percentages #12: 0
+[Info   : Unity Log] Group credits: 60
+[Info   : Unity Log] # powered lights: 0
+[Info   : Unity Log] level id: 0
+[Info   : Unity Log] Changing level
+[Info   : Unity Log] Placing scene object at saved position: File Cabinet
+[Info   : Unity Log] Loading placed object position as: (2.65, 1.10, -12.40)
+[Info   : Unity Log] Saving placed position as: (2.65, 1.10, -12.40)
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Info   : Unity Log] Key 'shipGrabbableItems' does not exist
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Warning: Unity Log] The referenced script (SelectionWheel) on this Behaviour is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object 'MoreEmotesMenu') is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Warning: Unity Log] The referenced script (SelectionWheel) on this Behaviour is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object 'MoreEmotesMenu') is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Warning: Unity Log] The referenced script (SelectionWheel) on this Behaviour is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object 'MoreEmotesMenu') is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Warning: Unity Log] The referenced script (SelectionWheel) on this Behaviour is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object 'MoreEmotesMenu') is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Warning: Unity Log] The referenced script (SelectionWheel) on this Behaviour is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object 'MoreEmotesMenu') is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Warning: Unity Log] The referenced script (SelectionWheel) on this Behaviour is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object 'MoreEmotesMenu') is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Warning: Unity Log] The referenced script (SelectionWheel) on this Behaviour is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object 'MoreEmotesMenu') is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Warning: Unity Log] The referenced script (SelectionWheel) on this Behaviour is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object 'MoreEmotesMenu') is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Warning: Unity Log] The referenced script (SelectionWheel) on this Behaviour is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object 'MoreEmotesMenu') is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Warning: Unity Log] The referenced script (SelectionWheel) on this Behaviour is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object 'MoreEmotesMenu') is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Warning: Unity Log] The referenced script (SelectionWheel) on this Behaviour is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object 'MoreEmotesMenu') is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Warning: Unity Log] The referenced script (SelectionWheel) on this Behaviour is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object 'MoreEmotesMenu') is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Warning: Unity Log] The referenced script (SelectionWheel) on this Behaviour is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object 'MoreEmotesMenu') is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Warning: Unity Log] The referenced script (SelectionWheel) on this Behaviour is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object 'MoreEmotesMenu') is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Warning: Unity Log] The referenced script (SelectionWheel) on this Behaviour is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object 'MoreEmotesMenu') is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Warning: Unity Log] The referenced script (SelectionWheel) on this Behaviour is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object 'MoreEmotesMenu') is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Warning: Unity Log] The referenced script (SelectionWheel) on this Behaviour is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object 'MoreEmotesMenu') is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Warning: Unity Log] The referenced script (SelectionWheel) on this Behaviour is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object 'MoreEmotesMenu') is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Warning: Unity Log] The referenced script (SelectionWheel) on this Behaviour is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object 'MoreEmotesMenu') is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Warning: Unity Log] The referenced script (SelectionWheel) on this Behaviour is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object 'MoreEmotesMenu') is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Warning: Unity Log] The referenced script (SelectionWheel) on this Behaviour is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object 'MoreEmotesMenu') is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Warning: Unity Log] The referenced script (SelectionWheel) on this Behaviour is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object 'MoreEmotesMenu') is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Warning: Unity Log] The referenced script (SelectionWheel) on this Behaviour is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object 'MoreEmotesMenu') is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Warning: Unity Log] The referenced script (SelectionWheel) on this Behaviour is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object 'MoreEmotesMenu') is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Warning: Unity Log] The referenced script (SelectionWheel) on this Behaviour is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object 'MoreEmotesMenu') is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Warning: Unity Log] The referenced script (SelectionWheel) on this Behaviour is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object 'MoreEmotesMenu') is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Warning: Unity Log] The referenced script (SelectionWheel) on this Behaviour is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object 'MoreEmotesMenu') is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object '<null>') is missing!
+[Warning: Unity Log] The referenced script (SelectionWheel) on this Behaviour is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object 'MoreEmotesMenu') is missing!
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/LightSwitchContainer/PlacementCollider"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/Cube"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/AnimatedShipDoor/HangarDoorLeft (1)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (1)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ControlDesk.001"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (3)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (7)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/StorageCloset/Cube.000/Cube"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (6)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (8)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (5)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (4)"
+[Info   : Unity Log] [HELMET_CAMERAS] Starting coroutine...
+[Info   : Unity Log] [HELMET_CAMERAS] 5 seconds for init mode... Please wait...
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Info   : Unity Log] Started spectating
+[Warning: Unity Log] [Netcode] Setting ownership twice? Client-ID 0 already owns NetworkObject ID 18!
+[Info   : Unity Log] soumdmanager: True; False
+[Info   : Unity Log] Taking control of player Player and enabling camera!
+[Info   : Unity Log] Starting voice tracking for player: Mantekita
+[Info   : Unity Log] !!!! ENABLING CAMERA FOR PLAYER: Player
+[Info   : Unity Log] !!!! connectedPlayersAmount: 0
+[Info   : Unity Log] Has beta?: {hasBeta}
+[Info   : Unity Log] Has beta save data: True
+[Warning: Unity Log] [Dissonance:Recording] (01:30:51.486) CapturePipelineManager: Detected a frame skip, forcing capture pipeline reset (Delta Time:0,4606678)
+[Info   : Unity Log] [HELMET_CAMERAS] Ship camera founded...
+[Info   : Unity Log] [HELMET_CAMERAS] Monitors were changed...
+[Info   : Unity Log] [HELMET_CAMERAS] Turning off vanilla internal ship camera
+[Info   : Unity Log] radar target index 0
+[Info   : Unity Log] radar target index 1
+[Info   : Unity Log] radar target index 2
+[Info   : Unity Log] radar target index 3
+[Info   : Unity Log] radar target index 4
+[Info   : Unity Log] radar target index 5
+[Info   : Unity Log] radar target index 6
+[Info   : Unity Log] radar target index 7
+[Info   : Unity Log] radar target index 8
+[Info   : Unity Log] radar target index 9
+[Info   : Unity Log] radar target index 10
+[Info   : Unity Log] radar target index 11
+[Info   : Unity Log] radar target index 12
+[Info   : Unity Log] radar target index 13
+[Info   : Unity Log] radar target index 14
+[Info   : Unity Log] radar target index 15
+[Info   : Unity Log] radar target index 16
+[Info   : Unity Log] radar target index 17
+[Info   : Unity Log] radar target index 18
+[Info   : Unity Log] radar target index 19
+[Info   : Unity Log] radar target index 20
+[Info   : Unity Log] radar target index 21
+[Info   : Unity Log] radar target index 22
+[Info   : Unity Log] radar target index 23
+[Info   : Unity Log] radar target index 24
+[Info   : Unity Log] radar target index 25
+[Info   : Unity Log] radar target index 26
+[Info   : Unity Log] radar target index 27
+[Info   : Unity Log] radar target index 28
+[Info   : Unity Log] radar target index 29
+[Info   : Unity Log] radar target index 30
+[Info   : Unity Log] radar target index 31
+[Info   : Unity Log] Triggering animated object trigger bool: setting to True
+[Info   : Unity Log] bool val: True
+[Info   : Unity Log] Triggering animated object trigger bool: setting to True
+[Info   : Unity Log] bool val: True
+[Info   : Unity Log] Middle_Finger
+[Warning: Unity Log] [Dissonance:Recording] (01:31:16.393) BasicMicrophoneCapture: Insufficient buffer space, requested 60480, clamped to 16383 (dropping 44097 samples)
+[Warning: Unity Log] [Dissonance:Recording] (01:31:16.395) BasePreprocessingPipeline: Lost 960 samples in the preprocessor (buffer full), injecting silence to compensate
+[Warning: Unity Log] [Dissonance:Recording] (01:31:16.396) BasePreprocessingPipeline: Lost 960 samples in the preprocessor (buffer full), injecting silence to compensate
+[Warning: Unity Log] [Dissonance:Recording] (01:31:16.397) BasePreprocessingPipeline: Lost 960 samples in the preprocessor (buffer full), injecting silence to compensate
+[Warning: Unity Log] [Dissonance:Recording] (01:31:16.398) BasePreprocessingPipeline: Lost 960 samples in the preprocessor (buffer full), injecting silence to compensate
+[Warning: Unity Log] [Dissonance:Recording] (01:31:16.399) CapturePipelineManager: Detected a frame skip, forcing capture pipeline reset (Delta Time:1,255217)
+[Warning: Unity Log] [Dissonance:Recording] (01:31:16.605) CapturePipelineManager: Detected a frame skip, forcing capture pipeline reset (Delta Time:0,2212262)
+[Info   : Unity Log] PLAYER OPENED MENU
+[Info   : Unity Log] In terminal menu: False
+[Info   : Unity Log] Leaving current lobby
+[Info   : Unity Log] Disconnecting and setting networkobjects to destroy with owner
+[Info   : Unity Log] Got no ship grabbable items to save.
+[Info   : Unity Log] Shutting down and disconnecting from server. Is host?: True
+[Info   : Unity Log] [Netcode] Shutdown
+[Warning: Unity Log] [Dissonance:Recording] (01:31:30.125) BasicMicrophoneCapture: Insufficient buffer space, requested 57600, clamped to 16383 (dropping 41217 samples)
+[Warning: Unity Log] [Dissonance:Recording] (01:31:30.126) BasePreprocessingPipeline: Lost 960 samples in the preprocessor (buffer full), injecting silence to compensate
+[Warning: Unity Log] [Dissonance:Recording] (01:31:30.127) BasePreprocessingPipeline: Lost 960 samples in the preprocessor (buffer full), injecting silence to compensate
+[Warning: Unity Log] [Dissonance:Recording] (01:31:30.127) BasePreprocessingPipeline: Lost 960 samples in the preprocessor (buffer full), injecting silence to compensate
+[Warning: Unity Log] [Dissonance:Recording] (01:31:30.128) BasePreprocessingPipeline: Lost 480 samples in the preprocessor (buffer full), injecting silence to compensate
+[Warning: Unity Log] [Dissonance:Recording] (01:31:30.131) BasePreprocessingPipeline: Lost 480 samples in the preprocessor (buffer full), injecting silence to compensate
+[Info   : Unity Log] [Netcode] ShutdownInternal
+[Info   : Unity Log] [FacepunchTransport] - Shutting down.
+[Info   : Unity Log] [Netcode] NetworkConnectionManager.Shutdown() -> IsListening && NetworkTransport != null -> NetworkTransport.Shutdown()
+[Info   : Unity Log] Resetting unlockables list!
+[Info   : Unity Log] Scene manager is null
+[Warning: Unity Log] [Netcode] NetworkBehaviour-Player (24) is being destroyed while NetworkObject-Player (24) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-Player (16) is being destroyed while NetworkObject-Player (16) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-Player (25) is being destroyed while NetworkObject-Player (25) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-Player (8) is being destroyed while NetworkObject-Player (8) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-Player (21) is being destroyed while NetworkObject-Player (21) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-Player (13) is being destroyed while NetworkObject-Player (13) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-Player (4) is being destroyed while NetworkObject-Player (4) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-Player (9) is being destroyed while NetworkObject-Player (9) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-Player (10) is being destroyed while NetworkObject-Player (10) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-Player (31) is being destroyed while NetworkObject-Player (31) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-Player (7) is being destroyed while NetworkObject-Player (7) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-Player (30) is being destroyed while NetworkObject-Player (30) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-Player (12) is being destroyed while NetworkObject-Player (12) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-Player (22) is being destroyed while NetworkObject-Player (22) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-Player (15) is being destroyed while NetworkObject-Player (15) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-Player (17) is being destroyed while NetworkObject-Player (17) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-Player (19) is being destroyed while NetworkObject-Player (19) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-Player (27) is being destroyed while NetworkObject-Player (27) is still spawned! (could break state synchronization)
+[Info   : Unity Log] DISABLING connection callbacks in round manager
+[Warning: Unity Log] [Netcode] NetworkBehaviour-Player (11) is being destroyed while NetworkObject-Player (11) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-Player (6) is being destroyed while NetworkObject-Player (6) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-Player (14) is being destroyed while NetworkObject-Player (14) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-Player (23) is being destroyed while NetworkObject-Player (23) is still spawned! (could break state synchronization)
+[Info   : Unity Log] Terminal disabled, disabling ESC key listener
+[Warning: Unity Log] [Netcode] NetworkBehaviour-Player (29) is being destroyed while NetworkObject-Player (29) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-Player (1) is being destroyed while NetworkObject-Player (1) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-Player (2) is being destroyed while NetworkObject-Player (2) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-Player (3) is being destroyed while NetworkObject-Player (3) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-Player (20) is being destroyed while NetworkObject-Player (20) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-Player (5) is being destroyed while NetworkObject-Player (5) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-Player (28) is being destroyed while NetworkObject-Player (28) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-Player (26) is being destroyed while NetworkObject-Player (26) is still spawned! (could break state synchronization)
+[Warning: Unity Log] [Netcode] NetworkBehaviour-Player (18) is being destroyed while NetworkObject-Player (18) is still spawned! (could break state synchronization)
+[Info   : Unity Log] Set version num
+[Info   : Unity Log] Changing gamma
+[Info   : Unity Log] override float value: 1
+[Info   : Unity Log] Overriding float
+[Info   : Unity Log] Gamma changed
+[Info   : Unity Log] Set gamma to new value: 1; (0.00, 0.00, 0.00, 1.00) (True)
